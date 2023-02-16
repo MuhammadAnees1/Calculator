@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="equal">=</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="star">*</string>
+    <string name="four">4</string>
+    <string name="nine">9</string>
+    <string name="add">+</string>
+    <string name="eight">8</string>
+    <string name="seven">7</string>
+    <string name="zero">0</string>
+    <string name="c">C</string>
+    <string name="close_bracket">)</string>
+    <string name="division">/</string>
+    <string name="open_bracket">(</string>
+    <string name="one">1</string>
+    <string name="sub">-</string>
+    <string name="a">AC</string>
+    <string name="point">.</string>
+    <string name="Zero">0</string>
+</resources>
